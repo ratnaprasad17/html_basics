@@ -1,4 +1,4 @@
-# 📘 HTML Notes
+# 📘 HTML basics Notes
 
 **Beginner-friendly HTML notes, written and published daily.**
 
